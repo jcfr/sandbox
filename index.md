@@ -1,4 +1,4 @@
 ---
 redirect_to:
-  - https://scikit-build.readthedocs.io
+  - https://python-packaging-tutorial.readthedocs.io
 ---
