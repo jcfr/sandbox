@@ -87,7 +87,7 @@ If you want white as a legal color, you can just pass a different image to
     plt.axis("off")
     plt.show()
 
-**Total running time of the script:** ( 0 minutes  1.818 seconds)
+**Total running time of the script:** ( 0 minutes  2.230 seconds)
 
 
 .. _sphx_glr_download_auto_examples_colored.py:
