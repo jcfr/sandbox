@@ -1,0 +1,233 @@
+:orphan:
+
+
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Make a word cloud with a single word that&#x27;s repeated. ">
+
+.. only:: html
+
+    .. figure:: /auto_examples/images/thumb/sphx_glr_single_word_thumb.png
+
+        :ref:`sphx_glr_auto_examples_single_word.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /auto_examples/single_word
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Generating a square wordcloud from the US constitution using default arguments. ">
+
+.. only:: html
+
+    .. figure:: /auto_examples/images/thumb/sphx_glr_simple_thumb.png
+
+        :ref:`sphx_glr_auto_examples_simple.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /auto_examples/simple
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Using a mask you can generate wordclouds in arbitrary shapes. ">
+
+.. only:: html
+
+    .. figure:: /auto_examples/images/thumb/sphx_glr_masked_thumb.png
+
+        :ref:`sphx_glr_auto_examples_masked.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /auto_examples/masked
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Using a dictionary of word frequency. ">
+
+.. only:: html
+
+    .. figure:: /auto_examples/images/thumb/sphx_glr_frequency_thumb.png
+
+        :ref:`sphx_glr_auto_examples_frequency.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /auto_examples/frequency
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="You can color a word-cloud by using an image-based coloring strategy implemented in ImageColorG...">
+
+.. only:: html
+
+    .. figure:: /auto_examples/images/thumb/sphx_glr_colored_thumb.png
+
+        :ref:`sphx_glr_auto_examples_colored.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /auto_examples/colored
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="There are 3 important steps to follow to include emoji: 1) Read the text input with io.open ins...">
+
+.. only:: html
+
+    .. figure:: /auto_examples/images/thumb/sphx_glr_emoji_thumb.png
+
+        :ref:`sphx_glr_auto_examples_emoji.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /auto_examples/emoji
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Using the recolor method and custom coloring functions. ">
+
+.. only:: html
+
+    .. figure:: /auto_examples/images/thumb/sphx_glr_a_new_hope_thumb.png
+
+        :ref:`sphx_glr_auto_examples_a_new_hope.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /auto_examples/a_new_hope
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Wordcloud is a very good tools, but if you want to create Chinese wordcloud only wordcloud is n...">
+
+.. only:: html
+
+    .. figure:: /auto_examples/images/thumb/sphx_glr_wordcloud_cn_thumb.png
+
+        :ref:`sphx_glr_auto_examples_wordcloud_cn.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /auto_examples/wordcloud_cn
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Generating a word cloud that assigns colors to words based on a predefined mapping from colors ...">
+
+.. only:: html
+
+    .. figure:: /auto_examples/images/thumb/sphx_glr_colored_by_group_thumb.png
+
+        :ref:`sphx_glr_auto_examples_colored_by_group.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /auto_examples/colored_by_group
+.. raw:: html
+
+    <div style='clear:both'></div>
+
+License
+
+Call to Arms (Lu Xun), collection of short stories.
+
+LuXun_black : Thousand pointing fingers, willing ox bow (Zhao Yannian's Woodcut 1961)
+
+LuXun_color : Thousand pointing fingers, willing ox bow (Yin Shoushi's Chinese Ink 1973)(after image processing)
+
+
+According to the copyright law of People's Republic of China, the use of the above three works of art in scientific research and study is allowed.Because it is out of copyright in the copyright law of the Republic of People's Republic of China, so Chinese law is no longer on the "Call to Arms" for copyright protection.But if you want to use two pieces of art in business, because the time limit for copyright is not over, you have to get the consent of the artist.
+
+---------------------stopwords---------------------
+stopwords: Free to use, without authorization 
+
+Shandong University of Science and Technology (Ji'nan campus) Software Alliance Laboratory(2017) Font Tian 
+
+
+.. raw:: html
+
+    <div style='clear:both'></div>
+
+
+
+.. only :: html
+
+ .. container:: sphx-glr-footer
+    :class: sphx-glr-footer-gallery
+
+
+  .. container:: sphx-glr-download
+
+    :download:`Download all examples in Python source code: auto_examples_python.zip <//home/jcfr/Projects/word_cloud/doc/auto_examples/auto_examples_python.zip>`
+
+
+
+  .. container:: sphx-glr-download
+
+    :download:`Download all examples in Jupyter notebooks: auto_examples_jupyter.zip <//home/jcfr/Projects/word_cloud/doc/auto_examples/auto_examples_jupyter.zip>`
+
+
+.. only:: html
+
+ .. rst-class:: sphx-glr-signature
+
+    `Gallery generated by Sphinx-Gallery <https://sphinx-gallery.readthedocs.io>`_
